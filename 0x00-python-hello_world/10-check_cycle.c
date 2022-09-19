@@ -1,6 +1,6 @@
 /*
  * File: 10-check_cycle.c
- * Auth: Brennan D Baraban
+ * Auth: ikeji chiagozie @ alx-school
  */
 
 #include <stdlib.h>
