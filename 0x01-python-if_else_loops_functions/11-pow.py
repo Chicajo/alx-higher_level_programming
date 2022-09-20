@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 11-pow.py
-# Brennan D Baraban <375@holbertonschool.com>
+# ikeji chiagozie @alx-school
 
 
 def pow(a, b):
