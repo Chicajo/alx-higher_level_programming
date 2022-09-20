@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 101-remove_char_at.py
-# Brennan D Baraban <375@holbertonschool.com>
+# ikeji chiagozie @alx-school
 
 
 def remove_char_at(str, n):
